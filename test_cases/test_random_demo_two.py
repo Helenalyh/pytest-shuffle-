@@ -39,8 +39,8 @@ class TestGoogle():
     
 
     def test_4(self):
-        assert 1==1
-        print('test order 2.4=')
+        assert True
+        print('test order 1.4=')
 
 
     
